@@ -5,7 +5,7 @@ GET http://localhost:4004/api/v1/toInteger(value='20')
 GET http://localhost:4004/api/v1/toNumber(value='20.2')
 
 ### call toString
-GET http://localhost:4004/api/v1/toStr(value=20.2)
+GET http://localhost:4004/api/v1/toStr(value=20.1)
 
 ### call addQoutes
 GET http://localhost:4004/api/v1/addQuotes(value='abcd')
